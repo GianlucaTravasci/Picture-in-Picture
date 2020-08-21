@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
 
 html {
   box-sizing: border-box;
@@ -9,5 +10,6 @@ body {
   display: grid;
   align-items: center;
   justify-content: center;
+  font-family: 'Do Hyeon', sans-serif;
 }
 
